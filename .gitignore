@@ -1,0 +1,11 @@
+TestResults/*
+packages/*
+OdeToFood.Tests/*
+OdeToFood/OdeToFood/bin/*
+OdeToFood/OdeToFood/Content/*
+OdeToFood/OdeToFood/fonts/*
+OdeToFood/OdeToFood/bin/*
+OdeToFood/OdeToFood/obj/*
+OdeToFood/OdeToFood/Properties/*
+OdeToFood/OdeToFood/Scripts/*
+.vs/*
